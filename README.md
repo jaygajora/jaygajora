@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **jaygajora/jaygajora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **gajorajay@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:
   <a href="https://linkedin.com/in/jaygajora" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaygajora" height="30" width="40" />
   </a>
+</h3>
   <a href="https://www.topcoder.com/members/90815" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="90815" height="30" width="40" />
   </a>
