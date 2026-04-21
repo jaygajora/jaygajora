@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer passionate about building useful products that solve real problems. I work across backend, frontend, and cloud with Java, JavaScript, Spring Boot, Node.js, Express.js, React, PostgreSQL, MongoDB, and AWS.
+I am a passionate full-stack developer with a strong interest in building useful products that solve real-world problems. I enjoy working across backend, frontend, and cloud technologies, turning ideas into scalable and user-friendly applications. My technical experience includes Java, JavaScript, Spring Boot, Node.js, Express.js, React, PostgreSQL, MongoDB, and AWS. I am particularly interested in designing clean and efficient APIs, developing reliable backend systems, and creating intuitive frontend experiences. Beyond coding, I enjoy learning new technologies, improving my problem-solving abilities, and working on meaningful projects that create real impact. I aim to build software that is practical, scalable, and delivers a smooth experience to users.
 
 
 ## 🌐 Socials:
